@@ -1,0 +1,7 @@
+2026-10-05 09:00:01 INFO Application started
+2026-10-05 09:01:15 INFO Reading customer file
+2026-10-05 09:02:10 WARNING Invalid email found
+2026-10-05 09:03:22 INFO Data cleansing completed
+2026-10-05 09:04:35 ERROR Unable to process file
+2026-10-05 09:05:10 INFO JSON processing completed
+2026-10-05 09:06:25 ERROR Database connection failed

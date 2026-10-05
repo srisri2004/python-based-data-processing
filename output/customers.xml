@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<customers><customer><id>1</id><name>Ravi Kumar</name><email>ravi@gmail.com</email><phone>9876543210</phone><city>Hyderabad</city></customer><customer><id>2</id><name>Priya Reddy</name><email>priya@gmail.com</email><phone>9123456780</phone><city>Warangal</city></customer></customers>

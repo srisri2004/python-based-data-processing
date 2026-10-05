@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Ravi Kumar",
+        "email": "ravi@gmail.com",
+        "phone": "9876543210",
+        "city": "Hyderabad"
+    },
+    {
+        "id": 2,
+        "name": "Priya Reddy",
+        "email": "priya@gmail.com",
+        "phone": "9123456780",
+        "city": "Warangal"
+    }
+]

@@ -1,0 +1,23 @@
+python_data_processing_project/
+│
+├── main.py
+├── requirements.txt
+│
+├── data/
+│   ├── input/
+│   │   ├── customers.csv
+│   │   ├── customers.json
+│   │   └── customers.xml
+│   │
+│   └── output/
+│
+├── logs/
+│   └── application.log
+│
+└── src/
+    ├── __init__.py
+    ├── data_cleaner.py
+    ├── file_validator.py
+    ├── json_xml_processor.py
+    ├── log_analyzer.py
+    └── file_processor.py
